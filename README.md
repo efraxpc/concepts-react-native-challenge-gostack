@@ -7,4 +7,4 @@
 
 - [x] Should add a like to the like counter of the repository ✅ 
  
- 
+ ![](http://g.recordit.co/CnJHLybIfj.gif)
